@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**bjorne84/bjorne84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Student at Mittuniversitet, Webbutveckling 120hp (webdevelopment, 2 years)
 
-Here are some ideas to get you started:
+**languages and subjects I have studied so far at the program**
+* html
+* css
+* JavaScript
+* image processing
+* typography
+* MySQL
+* PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
