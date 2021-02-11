@@ -10,6 +10,8 @@ Student at Mittuniversitet, Webbutveckling 120hp (webdevelopment, 2 years)
 * typography
 * MySQL
 * PHP
+* C#
+* ASP.NET
 
 
 
